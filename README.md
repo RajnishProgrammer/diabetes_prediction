@@ -14,7 +14,7 @@
     <br />
     <a href="https://github.com/Abhayparashar31/Diabetes-prediction">View Codes</a>
     ·
-    <a>Report Bug -> parasharabhay13@gmail.com</a>
+    <a>Report Bug -> rajnishsinghthakur107@gmail.com</a>
     
   </p>
 </p>
